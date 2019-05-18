@@ -1,0 +1,25 @@
+{
+  "block.faeriefire.white_faeriefire": "White Faerie Fire",
+  "block.faeriefire.orange_faeriefire": "Orange Faerie Fire",
+  "block.faeriefire.magenta_faeriefire": "Magenta Faerie Fire",
+  "block.faeriefire.light_blue_faeriefire": "Light Blue Faerie Fire",
+  "block.faeriefire.yellow_faeriefire": "Yellow Faerie Fire",
+  "block.faeriefire.lime_faeriefire": "Lime Faerie Fire",
+  "block.faeriefire.pink_faeriefire": "Pink Faerie Fire",
+  "block.faeriefire.gray_faeriefire": "Gray Faerie Fire",
+  "block.faeriefire.light_gray_faeriefire": "Light Gray Faerie Fire",
+  "block.faeriefire.cyan_faeriefire": "Cyan Faerie Fire",
+  "block.faeriefire.purple_faeriefire": "Purple Faerie Fire",
+  "block.faeriefire.blue_faeriefire": "Blue Faerie Fire",
+  "block.faeriefire.brown_faeriefire": "Brown Faerie Fire",
+  "block.faeriefire.green_faeriefire": "Green Faerie Fire",
+  "block.faeriefire.red_faeriefire": "Red Faerie Fire",
+  "block.faeriefire.black_faeriefire": "Black Faerie Fire",
+
+  "faeriefire.notif.lock.true":  "Faerie Fire settings locked",
+  "faeriefire.notif.lock.false": "Faerie Fire settings unlocked",
+  "faeriefire.notif.visible.true":  "Faerie Fire made visible",
+  "faeriefire.notif.visible.false": "Faerie Fire made invisible",
+  "faeriefire.notif.light_level": "Faerie Fire light level set to %s",
+  "faeriefire.notif.color": "Faerie Fire color changed to %s"
+}

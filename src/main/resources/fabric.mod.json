@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "faeriefire",
+  "version": "${version}",
+
+  "name": "Faerie Fire",
+  "description": "Adds a configurable lighting block called Faerie Fire.",
+  "authors": [ "swordglowsblue" ],
+  "contact": {
+    "homepage": "https://minecraft.curseforge.com/projects/faerie-fire",
+    "sources": ""
+  },
+
+  "license": "MIT",
+  "icon": "assets/faeriefire/icon.png",
+
+  "entrypoints": {
+    "main": [ "com.swordglowsblue.faeriefire.FaerieFire" ]
+  },
+
+  "requires": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*"
+  }
+}

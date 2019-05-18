@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "faeriefire:faeriefire",
+  "ingredients": [
+    { "tag": "faeriefire:faeriefire" },
+    { "item": "minecraft:yellow_dye" }
+  ],
+  "result": {
+    "item": "faeriefire:yellow_faeriefire"
+  }
+}

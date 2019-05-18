@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "faeriefire:faeriefire",
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "key": {
+    "#": { "item": "minecraft:glowstone_dust" },
+    "X": { "item": "minecraft:orange_dye" }
+  },
+  "result": {
+    "item": "faeriefire:orange_faeriefire",
+    "count": 4
+  }
+}
