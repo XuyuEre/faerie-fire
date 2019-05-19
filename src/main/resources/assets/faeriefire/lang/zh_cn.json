@@ -1,0 +1,25 @@
+{
+  "block.faeriefire.white_faeriefire": "白色精灵之火",
+  "block.faeriefire.orange_faeriefire": "橙色精灵之火",
+  "block.faeriefire.magenta_faeriefire": "品红色精灵之火",
+  "block.faeriefire.light_blue_faeriefire": "浅蓝色精灵之火",
+  "block.faeriefire.yellow_faeriefire": "黄色精灵之火",
+  "block.faeriefire.lime_faeriefire": "黄绿色精灵之火",
+  "block.faeriefire.pink_faeriefire": "粉色精灵之火",
+  "block.faeriefire.gray_faeriefire": "灰色精灵之火",
+  "block.faeriefire.light_gray_faeriefire": "浅灰色精灵之火",
+  "block.faeriefire.cyan_faeriefire": "青色精灵之火",
+  "block.faeriefire.purple_faeriefire": "紫色精灵之火",
+  "block.faeriefire.blue_faeriefire": "蓝色精灵之火",
+  "block.faeriefire.brown_faeriefire": "棕色精灵之火",
+  "block.faeriefire.green_faeriefire": "绿色精灵之火",
+  "block.faeriefire.red_faeriefire": "红色精灵之火",
+  "block.faeriefire.black_faeriefire": "黑色精灵之火",
+
+  "faeriefire.notif.lock.true":  "精灵之火设置为锁定",
+  "faeriefire.notif.lock.false": "精灵之火设置为解锁",
+  "faeriefire.notif.visible.true":  "精灵之火变的有形",
+  "faeriefire.notif.visible.false": "精灵之火变得无形",
+  "faeriefire.notif.light_level": "精灵之火的亮度设置为 %s",
+  "faeriefire.notif.color": "精灵之火的颜色转变为 %s"
+}
